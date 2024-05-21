@@ -4,6 +4,9 @@
 > [!NOTE]
 > We only provide the test code, the training code will be released later
 
+## Requirement
+pytorch > 1.9; Python > 3.8; cuda > 10.1
+
 ## Vidioe
 
 https://github.com/zangyufus/PCF_net/assets/46782657/17bd8f58-635d-45f9-9e2a-249eb530da1f
