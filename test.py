@@ -71,13 +71,13 @@ def test(args, io):
     io.cprint('Start overall evaluation...')
 
     # Try to load models
-    if args.model == 'dgcnn':
+    if args.model == 'pcf_net':
         model = PCF_net(args).to(device)
     else:
         raise Exception("Not implemented")
 
     model = nn.DataParallel(model)
-    checkpoint = torch.load(os.path.join(args.model_root, 'xlmodel_all.t7'))
+    checkpoint = torch.load(os.path.join(args.model_root, 'best_model.t7'))
     model.load_state_dict(checkpoint['model_state_dict'])
     model = model.eval()
     total_params = sum(p.numel() for p in model.parameters())
