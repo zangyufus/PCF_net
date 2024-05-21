@@ -11,7 +11,7 @@ https://github.com/zangyufus/PCF_net/assets/46782657/17bd8f58-635d-45f9-9e2a-249
 https://github.com/zangyufus/PCF_net/assets/46782657/ef5a0af4-7f8a-4a4c-865b-a0fd01faf53c
 
 ## test
-Please run the test.py and the model is 
+Please run the test.py file
 
 ## Citiation
 ```bibtex
