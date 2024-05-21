@@ -1,0 +1,6 @@
+Area_1/facade_1/Annotations
+Area_2/facade_1/Annotations
+Area_3/facade_1/Annotations
+Area_4/facade_1/Annotations
+Area_5/facade_1/Annotations
+Area_6/facade_1/Annotations
