@@ -23,4 +23,5 @@ Please run the test.py file
   author={臧玉府，王树野，董震，陈驰，黄荣刚},
   journal={测绘学报(已投)},
   year={2024}
+Zang, Y., Wang, S., Guan, H., Peng, D., Chen, J., Chen, Y., & Delavar, M. R. (2024). VAM-Net: Vegetation-Attentive deep network for Multi-modal fusion of visible-light and vegetation-sensitive images. International Journal of Applied Earth Observation and Geoinformation, 127, 103642.
 }
